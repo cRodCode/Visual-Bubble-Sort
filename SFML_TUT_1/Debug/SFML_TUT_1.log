@@ -1,0 +1,8 @@
+﻿  SFML_TUT_1.cpp
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(64,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(74,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(75,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(85,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(86,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\SFML_TUT_1\SFML_TUT_1.cpp(92,43): warning C4018: '<': signed/unsigned mismatch
+  SFML_TUT_1.vcxproj -> C:\Users\Carlos\source\repos\SFML_TUT's\SFML_TUT_1\Debug\SFML_TUT_1.exe
